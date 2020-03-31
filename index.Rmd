@@ -16,6 +16,8 @@ output: html_document
 
 [Week 5: 4/28/20](https://zoom.us/j/3094028153)
 
+[Week 6: 5/5/20](https://zoom.us/j/3094028153)
+
 [Week 7: 5/12/20](https://zoom.us/j/3094028153)
 
 [Week 8: 5/19/20](https://zoom.us/j/3094028153)
